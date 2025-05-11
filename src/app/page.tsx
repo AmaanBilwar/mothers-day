@@ -127,7 +127,7 @@ export default function Home() {
                 <div className="max-w-2xl mx-auto flex flex-col md:flex-row items-center md:items-start gap-6 text-center md:text-left">
                   <div className="flex-shrink-0 w-32 m-12 md:w-48 h-24 md:h-32 max-w-xs mb-4 md:mb-0 md:mr-6 relative">
                     <Image
-                      src="/mom-2.jpg"
+                      src="/test-2.jpg"
                       alt="Memory with Mom"
                       width={192}
                       height={128}
